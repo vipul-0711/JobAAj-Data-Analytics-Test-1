@@ -1,3 +1,4 @@
+<img width="1278" height="642" alt="Screenshot 2026-08-11 164625" src="https://github.com/user-attachments/assets/135925fb-b3f6-4005-b99e-a297155c0436" />
 
 | **KPI**                             | **Business Insight**                                              | **Possible Business Action**                                                    |
 | ----------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -21,5 +22,8 @@
 | **Order Success Rate**              | Measures operational efficiency from order placement to delivery. | Improve fulfillment processes to maximize successful deliveries.                |
 
 ![image alt](https://github.com/vipul-0711/Jobaaj-test1/blob/c1dea576dafd9870ef8453e3bdc9df1c1bdd2620/sales%20dashboard.png)
+<img width="842" height="605" alt="Screenshot 2026-08-11 164655" src="https://github.com/user-attachments/assets/5b831cc4-d204-4540-8cca-5292a3a44a10" />
+<img width="609" height="609" alt="Screenshot 2026-08-11 164639" src="https://github.com/user-attachments/assets/3e5d1fe4-45c7-497a-93d6-da9175772694" />
+<img width="1278" height="642" alt="Screenshot 2026-08-11 164625" src="https://github.com/user-attachments/assets/ad5c8122-d19a-492f-8601-0c98f6109642" />
 
 
